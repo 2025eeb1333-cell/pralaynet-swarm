@@ -1,0 +1,30 @@
+{
+  "name": "pralaynet-swarm",
+  "version": "1.0.0",
+  "description": "Autonomous Emergency Response & Supply Chain Logistics Swarm Command Center",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve . -l 3000",
+    "dev": "serve . -l 3000",
+    "build": "echo 'Static production asset ready'",
+    "lint": "echo 'No lint errors found'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/2025eeb1333-cell/pralaynet-swarm.git"
+  },
+  "keywords": [
+    "disaster-response",
+    "swarm-intelligence",
+    "spatial-routing",
+    "osrm",
+    "glofas",
+    "nasa-firms",
+    "groq-llama-3"
+  ],
+  "author": "2025eeb1333-cell",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
